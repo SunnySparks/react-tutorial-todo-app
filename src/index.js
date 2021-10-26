@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import "./components/App.css"
+import "./functionBased/components/App.css";
 // import App from './App';
-import TodoContainer from "./components/TodoContainer"
-
+import TodoContainer from "./functionBased/components/TodoContainer";
 //component file
 
 ReactDOM.render(
