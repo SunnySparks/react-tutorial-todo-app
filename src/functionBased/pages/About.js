@@ -20,6 +20,5 @@ const About = (props) => {
             </Route>
         </div>
     )
-    return <div>hello from about page</div>;
 }
 export default About;
